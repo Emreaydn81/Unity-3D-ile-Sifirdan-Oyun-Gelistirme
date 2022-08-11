@@ -1,0 +1,15 @@
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\bin\Debug\net6.0\Değişken Tanımlama.exe
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\bin\Debug\net6.0\Değişken Tanımlama.deps.json
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\bin\Debug\net6.0\Değişken Tanımlama.runtimeconfig.json
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\bin\Debug\net6.0\Değişken Tanımlama.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\bin\Debug\net6.0\Değişken Tanımlama.pdb
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.csproj.AssemblyReference.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.AssemblyInfoInputs.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.AssemblyInfo.cs
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\refint\Değişken Tanımlama.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.pdb
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\Değişken Tanımlama.genruntimeconfig.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\2.Değişken Tanımlama\obj\Debug\net6.0\ref\Değişken Tanımlama.dll
