@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.AssemblyInfo.cs
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\bin\Debug\net6.0\17.Dizi Örnekleri.exe
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\bin\Debug\net6.0\17.Dizi Örnekleri.deps.json
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\bin\Debug\net6.0\17.Dizi Örnekleri.runtimeconfig.json
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\bin\Debug\net6.0\17.Dizi Örnekleri.dll
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\bin\Debug\net6.0\17.Dizi Örnekleri.pdb
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.dll
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\refint\17.Dizi Örnekleri.dll
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.pdb
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\17.Dizi Örnekleri.genruntimeconfig.cache
+C:\Users\aemre\source\repos\17.Dizi Örnekleri\obj\Debug\net6.0\ref\17.Dizi Örnekleri.dll

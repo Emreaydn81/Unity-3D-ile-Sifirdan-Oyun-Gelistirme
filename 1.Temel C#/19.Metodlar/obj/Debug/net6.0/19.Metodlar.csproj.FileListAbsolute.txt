@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\19.Metodlar\bin\Debug\net6.0\19.Metodlar.exe
+C:\Users\aemre\source\repos\19.Metodlar\bin\Debug\net6.0\19.Metodlar.deps.json
+C:\Users\aemre\source\repos\19.Metodlar\bin\Debug\net6.0\19.Metodlar.runtimeconfig.json
+C:\Users\aemre\source\repos\19.Metodlar\bin\Debug\net6.0\19.Metodlar.dll
+C:\Users\aemre\source\repos\19.Metodlar\bin\Debug\net6.0\19.Metodlar.pdb
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.AssemblyInfo.cs
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.dll
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\refint\19.Metodlar.dll
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.pdb
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\19.Metodlar.genruntimeconfig.cache
+C:\Users\aemre\source\repos\19.Metodlar\obj\Debug\net6.0\ref\19.Metodlar.dll
