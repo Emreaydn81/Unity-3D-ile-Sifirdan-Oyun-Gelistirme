@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\16.List Kullanımı\bin\Debug\net6.0\16.List Kullanımı.exe
+C:\Users\aemre\source\repos\16.List Kullanımı\bin\Debug\net6.0\16.List Kullanımı.deps.json
+C:\Users\aemre\source\repos\16.List Kullanımı\bin\Debug\net6.0\16.List Kullanımı.runtimeconfig.json
+C:\Users\aemre\source\repos\16.List Kullanımı\bin\Debug\net6.0\16.List Kullanımı.dll
+C:\Users\aemre\source\repos\16.List Kullanımı\bin\Debug\net6.0\16.List Kullanımı.pdb
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.AssemblyInfo.cs
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.dll
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\refint\16.List Kullanımı.dll
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.pdb
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\16.List Kullanımı.genruntimeconfig.cache
+C:\Users\aemre\source\repos\16.List Kullanımı\obj\Debug\net6.0\ref\16.List Kullanımı.dll
