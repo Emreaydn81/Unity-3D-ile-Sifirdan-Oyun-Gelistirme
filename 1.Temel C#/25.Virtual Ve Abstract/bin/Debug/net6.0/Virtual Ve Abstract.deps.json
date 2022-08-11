@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Virtual Ve Abstract/1.0.0": {
+        "runtime": {
+          "Virtual Ve Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Virtual Ve Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
