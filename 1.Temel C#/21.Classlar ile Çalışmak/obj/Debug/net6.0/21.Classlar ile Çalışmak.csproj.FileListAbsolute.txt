@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\bin\Debug\net6.0\21.Classlar ile Çalışmak.exe
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\bin\Debug\net6.0\21.Classlar ile Çalışmak.deps.json
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\bin\Debug\net6.0\21.Classlar ile Çalışmak.runtimeconfig.json
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\bin\Debug\net6.0\21.Classlar ile Çalışmak.dll
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\bin\Debug\net6.0\21.Classlar ile Çalışmak.pdb
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.AssemblyInfo.cs
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.dll
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\refint\21.Classlar ile Çalışmak.dll
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.pdb
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\21.Classlar ile Çalışmak.genruntimeconfig.cache
+C:\Users\aemre\source\repos\21.Classlar ile Çalışmak\obj\Debug\net6.0\ref\21.Classlar ile Çalışmak.dll

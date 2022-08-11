@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\22.Encapsulation\bin\Debug\net6.0\22.Encapsulation.exe
+C:\Users\aemre\source\repos\22.Encapsulation\bin\Debug\net6.0\22.Encapsulation.deps.json
+C:\Users\aemre\source\repos\22.Encapsulation\bin\Debug\net6.0\22.Encapsulation.runtimeconfig.json
+C:\Users\aemre\source\repos\22.Encapsulation\bin\Debug\net6.0\22.Encapsulation.dll
+C:\Users\aemre\source\repos\22.Encapsulation\bin\Debug\net6.0\22.Encapsulation.pdb
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.AssemblyInfo.cs
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.dll
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\refint\22.Encapsulation.dll
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.pdb
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\22.Encapsulation.genruntimeconfig.cache
+C:\Users\aemre\source\repos\22.Encapsulation\obj\Debug\net6.0\ref\22.Encapsulation.dll
