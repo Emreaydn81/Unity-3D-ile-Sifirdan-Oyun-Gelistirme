@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.exe
+C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.deps.json
+C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.runtimeconfig.json
+C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.dll
+C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.pdb
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.AssemblyInfo.cs
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.dll
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\refint\9.Switch Örnekler.dll
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.pdb
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\9.Switch Örnekler.genruntimeconfig.cache
+C:\Users\aemre\source\repos\9.Switch Örnekler\obj\Debug\net6.0\ref\9.Switch Örnekler.dll

@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\10.DöngülerFor\bin\Debug\net6.0\10.DöngülerFor.exe
+C:\Users\aemre\source\repos\10.DöngülerFor\bin\Debug\net6.0\10.DöngülerFor.deps.json
+C:\Users\aemre\source\repos\10.DöngülerFor\bin\Debug\net6.0\10.DöngülerFor.runtimeconfig.json
+C:\Users\aemre\source\repos\10.DöngülerFor\bin\Debug\net6.0\10.DöngülerFor.dll
+C:\Users\aemre\source\repos\10.DöngülerFor\bin\Debug\net6.0\10.DöngülerFor.pdb
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.AssemblyInfo.cs
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.dll
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\refint\10.DöngülerFor.dll
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.pdb
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\10.DöngülerFor.genruntimeconfig.cache
+C:\Users\aemre\source\repos\10.DöngülerFor\obj\Debug\net6.0\ref\10.DöngülerFor.dll

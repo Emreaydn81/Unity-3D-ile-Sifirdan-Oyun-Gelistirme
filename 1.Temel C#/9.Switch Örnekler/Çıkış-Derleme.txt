@@ -1,0 +1,5 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: 9.Switch Örnekler, Yapılandırma: Debug Any CPU ------
+1>Yapıyı hızlandırmak için çözümleyiciler atlanıyor. Çözümleyicileri çalıştırmak için 'Oluştur' veya 'Yeniden Oluştur' komutunu çalıştırabilirsiniz.
+1>9.Switch Örnekler -> C:\Users\aemre\source\repos\9.Switch Örnekler\bin\Debug\net6.0\9.Switch Örnekler.dll
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========

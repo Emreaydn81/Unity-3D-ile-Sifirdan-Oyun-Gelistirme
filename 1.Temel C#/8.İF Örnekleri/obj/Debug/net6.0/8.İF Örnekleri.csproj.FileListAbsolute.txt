@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\8.İF Örnekleri\bin\Debug\net6.0\8.İF Örnekleri.exe
+C:\Users\aemre\source\repos\8.İF Örnekleri\bin\Debug\net6.0\8.İF Örnekleri.deps.json
+C:\Users\aemre\source\repos\8.İF Örnekleri\bin\Debug\net6.0\8.İF Örnekleri.runtimeconfig.json
+C:\Users\aemre\source\repos\8.İF Örnekleri\bin\Debug\net6.0\8.İF Örnekleri.dll
+C:\Users\aemre\source\repos\8.İF Örnekleri\bin\Debug\net6.0\8.İF Örnekleri.pdb
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.AssemblyInfo.cs
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.dll
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\refint\8.İF Örnekleri.dll
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.pdb
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\8.İF Örnekleri.genruntimeconfig.cache
+C:\Users\aemre\source\repos\8.İF Örnekleri\obj\Debug\net6.0\ref\8.İF Örnekleri.dll
