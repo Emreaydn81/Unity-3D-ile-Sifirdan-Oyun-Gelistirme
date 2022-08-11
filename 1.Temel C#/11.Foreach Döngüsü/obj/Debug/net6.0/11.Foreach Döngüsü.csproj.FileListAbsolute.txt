@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.AssemblyInfo.cs
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\bin\Debug\net6.0\11.Foreach Döngüsü.exe
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\bin\Debug\net6.0\11.Foreach Döngüsü.deps.json
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\bin\Debug\net6.0\11.Foreach Döngüsü.runtimeconfig.json
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\bin\Debug\net6.0\11.Foreach Döngüsü.dll
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\bin\Debug\net6.0\11.Foreach Döngüsü.pdb
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.dll
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\refint\11.Foreach Döngüsü.dll
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.pdb
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\11.Foreach Döngüsü.genruntimeconfig.cache
+C:\Users\aemre\source\repos\11.Foreach Döngüsü\obj\Debug\net6.0\ref\11.Foreach Döngüsü.dll

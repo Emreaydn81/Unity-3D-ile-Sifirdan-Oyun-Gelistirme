@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\13.Do While Döngüsü\bin\Debug\net6.0\13.Do While Döngüsü.exe
+C:\Users\aemre\source\repos\13.Do While Döngüsü\bin\Debug\net6.0\13.Do While Döngüsü.deps.json
+C:\Users\aemre\source\repos\13.Do While Döngüsü\bin\Debug\net6.0\13.Do While Döngüsü.runtimeconfig.json
+C:\Users\aemre\source\repos\13.Do While Döngüsü\bin\Debug\net6.0\13.Do While Döngüsü.dll
+C:\Users\aemre\source\repos\13.Do While Döngüsü\bin\Debug\net6.0\13.Do While Döngüsü.pdb
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.AssemblyInfo.cs
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.dll
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\refint\13.Do While Döngüsü.dll
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.pdb
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\13.Do While Döngüsü.genruntimeconfig.cache
+C:\Users\aemre\source\repos\13.Do While Döngüsü\obj\Debug\net6.0\ref\13.Do While Döngüsü.dll

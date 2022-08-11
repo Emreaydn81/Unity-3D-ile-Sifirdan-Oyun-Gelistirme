@@ -1,0 +1,15 @@
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.csproj.AssemblyReference.cache
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.AssemblyInfoInputs.cache
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.AssemblyInfo.cs
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\aemre\source\repos\12.Do Döngüsü\bin\Debug\net6.0\12.Do Döngüsü.exe
+C:\Users\aemre\source\repos\12.Do Döngüsü\bin\Debug\net6.0\12.Do Döngüsü.deps.json
+C:\Users\aemre\source\repos\12.Do Döngüsü\bin\Debug\net6.0\12.Do Döngüsü.runtimeconfig.json
+C:\Users\aemre\source\repos\12.Do Döngüsü\bin\Debug\net6.0\12.Do Döngüsü.dll
+C:\Users\aemre\source\repos\12.Do Döngüsü\bin\Debug\net6.0\12.Do Döngüsü.pdb
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.dll
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\refint\12.Do Döngüsü.dll
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.pdb
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\12.Do Döngüsü.genruntimeconfig.cache
+C:\Users\aemre\source\repos\12.Do Döngüsü\obj\Debug\net6.0\ref\12.Do Döngüsü.dll
