@@ -1,0 +1,16 @@
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.exe
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.deps.json
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.runtimeconfig.json
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.runtimeconfig.dev.json
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\bin\Debug\net5.0\Giriş.pdb
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.csproj.AssemblyReference.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.AssemblyInfoInputs.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.AssemblyInfo.cs
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.csproj.CoreCompileInputs.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\refint\Giriş.dll
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.pdb
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\Giriş.genruntimeconfig.cache
+C:\Users\aemre\Desktop\Unity 3D ile Sıfırdan Oyun Geliştirme\Temel C#\Giriş\obj\Debug\net5.0\ref\Giriş.dll
